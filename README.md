@@ -26,4 +26,4 @@ Technologies used in the project:
 
 <h2>🛡️ License:</h2>
 
-This project is licensed under the This Project belongs to Anuraag Gupta. Follow me on Github: https://github.com/anuraag696
+This project is licensed under the Anuraag Gupta. Follow on Github: https://github.com/anuraag696
