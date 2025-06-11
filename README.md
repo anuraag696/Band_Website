@@ -1,4 +1,4 @@
-<p align="center"><img src="https://socialify.git.ci/anuraag696/Band_Website/image?custom_description=A+demo+website+for+a+band+%22The+Generics%22.&amp;custom_language=HTML&amp;description=1&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Transparent&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/anuraag696/Band_Website/image?custom_description=A+demo+website+for+a+band+%22The+Generics%22.&amp;custom_language=HTML&amp;description=1&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Transparent&amp;pulls=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
 <h2>🚀 Demo</h2>
 
